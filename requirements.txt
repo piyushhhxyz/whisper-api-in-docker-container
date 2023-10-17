@@ -1,0 +1,4 @@
+fastapi
+aiofiles
+python-multiport
+uvicorn
